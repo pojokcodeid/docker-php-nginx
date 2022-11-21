@@ -1,2 +1,2 @@
 # docker-php-nginx
-ini master php ev dengan menggunakan docker
+ini master php dev dengan menggunakan docker
